@@ -1,6 +1,6 @@
 #Bank Account
 
-Bank Account is a small ATM simulator written in JAVA for a class at GVSU. A main method that utilizes the various methods of the program's output can be seen below:
+Bank Account is a small ATM simulator written in JAVA. A main method that utilizes the various methods of the program's output can be seen below:
 
 ```
 The entered amount has been successfully deposited into your account!
