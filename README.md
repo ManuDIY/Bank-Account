@@ -1,4 +1,4 @@
-#Bank Account
+# Bank Account
 
 Bank Account is a small ATM simulator written in JAVA. A main method that utilizes the various methods of the program's output can be seen below:
 
